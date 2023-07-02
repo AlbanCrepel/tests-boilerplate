@@ -1,6 +1,8 @@
 {
+  "type": "module",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "dev": "node ./cli.js"
   },
   "devDependencies": {
     "vitest": "^0.32.2"
