@@ -2,7 +2,7 @@
   "type": "module",
   "scripts": {
     "test": "vitest",
-    "dev": "node ./cli.js",
+    "dev": "node ./src/cli.js",
     "coverage": "vitest run --coverage",
     "ui": "vitest --ui"
   },
